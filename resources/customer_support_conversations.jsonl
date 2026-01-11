@@ -1,0 +1,249 @@
+{"messages":[
+    "User: Hey, my order shows “label created” since yesterday. Is it actually on the way?",
+    "Agent: Hey! Yeah that status can get stuck sometimes. I checked the carrier and they already picked it up early this morning.",
+    "User: Oh good. Any idea when it should arrive?",
+    "Agent: It’s already in transit—most EU deliveries arrive within 2–3 days from pickup.",
+    "User: Perfect, thank you!"
+]}
+{"messages":[
+"User: Hi! I accidentally ordered two pairs instead of one. It already shipped—what can I do?",
+"Agent: Hey! No stress. Once both pairs arrive, just keep the one you want and return the extra. Returns are totally free.",
+"User: Okay cool. Do I need to notify anyone before returning?",
+"Agent: Nope! Just generate the return label from your account and drop it off at the courier."
+]}
+{"messages":[
+"User: My tracking says “delayed due to customs”. But I'm in Italy and you ship from the EU… why customs?",
+"Agent: Yeah that’s weird! Let me check—sometimes couriers use generic status codes.",
+"User: Thanks, it's confusing.",
+"Agent: Just checked! No customs involved. The hub was overloaded so they marked it as a “processing delay.” It should move again today.",
+"User: Got it, thanks for clearing that up."
+]}
+{"messages":[
+"User: Hey, the courier attempted delivery while I was at work. How can I reschedule?",
+"Agent: No problem! You can reschedule directly from the tracking page—there should be a “Change Delivery” button.",
+"User: I don’t see it.",
+"Agent: In that case, I can request a new delivery date for you. What day works best?",
+"User: Tomorrow after noon if possible.",
+"Agent: Done! I’ve submitted that to the courier for you."
+]}
+{"messages":[
+"User: Hi, I placed an order two hours ago but I typed the wrong postal code. Can you fix it?",
+"Agent: Yep! Since it hasn’t shipped yet, I can update it manually. What’s the correct postal code?",
+"User: It should be 1185JS.",
+"Agent: Updated! Your package will ship with the corrected address.",
+"User: Amazing, thank you!"
+]}
+{"messages":[
+"User: Hey, I want to return the sneakers I got yesterday. They feel a bit too stiff for me.",
+"Agent: Hey! No worries at all—returns are free for 14 days. I can send you the return label if you like.",
+"User: Yes please, send it over.",
+"Agent: Done! Check your email, the label should be there now."
+]}
+{"messages":[
+"User: Hi, I initiated a return last week but the courier still hasn’t picked it up. What should I do?",
+"Agent: Ah, sorry about that! Sometimes they miss the pickup. You can schedule a new one from the same return link.",
+"User: Will I need a new label?",
+"Agent: Nope, the original label stays valid. Just pick a new pickup date."
+]}
+{"messages":[
+"User: I returned my order two days ago. How long until I get my money back?",
+"Agent: Once the package reaches our warehouse, refunds usually take 3–5 business days.",
+"User: Do you know if it arrived yet?",
+"Agent: Let me check… yes! It was scanned this morning, so your refund should be processed soon."
+]}
+{"messages":[
+"User: The shoes I got just don’t fit my foot shape. Can I return them even if I tried them indoors?",
+"Agent: Absolutely! As long as they’re in good condition and within 14 days, you’re totally fine.",
+"User: Awesome. Do I need the original box?",
+"Agent: Yep, we ask that you return them with the box, but it doesn’t need to be perfect."
+]}
+{"messages":[
+"User: Hey, I want to return a pair but I threw away the return label by mistake. Can I get another one?",
+"Agent: For sure! I can generate a fresh label for you.",
+"User: Great, send it to my email?",
+"Agent: Just sent it—should arrive in a few seconds.",
+"User: Got it, thanks!"
+]}
+{"messages":[
+"User: Hey, the sneakers I got are a bit tight. Can I exchange them for a bigger size?",
+"Agent: Of course! Exchanges are free as long as the size you want is in stock.",
+"User: I’d like EU 44 instead of 43.",
+"Agent: Let me check… yep, EU 44 is available. I’ll start the exchange and send you the return label.",
+"User: Perfect, thanks!"
+]}
+{"messages":[
+"User: Hi, I ordered the wrong size by accident. Can I swap them before they even arrive?",
+"Agent: Yep! If the package hasn’t shipped yet, I can change the size directly.",
+"User: Great! Can you switch it from 41 to 42?",
+"Agent: Done! Your order now shows size 42 and will ship like that."
+]}
+{"messages":[
+"User: I want to exchange my pair, but I’m not sure which size I should pick. Do I send back the old pair first?",
+"Agent: Yep! Once we receive the returned pair, we ship the new size right away.",
+"User: Does it take long?",
+"Agent: Usually just a day after it arrives at our warehouse."
+]}
+{"messages":[
+"User: The sneakers fit fine on one foot but not the other. I think I need a half size up. Do you do exchanges?",
+"Agent: Absolutely! Just select “Exchange for a new size” on the return page.",
+"User: Do I have to pay for the shipping?",
+"Agent: Nope! Exchanges are completely free within 14 days."
+]}
+{"messages":[
+"User: Hey, I want to exchange my order but the size I want is out of stock. What are my options?",
+"Agent: Ah, sorry about that! If the size is unavailable, we can either refund you or notify you when it’s back.",
+"User: Can you notify me?",
+"Agent: Sure! I’ve added your size to the restock alerts—you’ll get an email as soon as it’s available."
+]}
+{"messages":[
+"User: Hey, my tracking hasn’t updated in three days. Is that normal?",
+"Agent: Hey! It happens sometimes when the parcel is between hubs. Let me check the carrier side.",
+"User: Okay, thanks.",
+"Agent: Just checked—your package is still moving, the scan just didn’t update. You should see a new update later today."
+]}
+{"messages":[
+"User: Hi, the courier marked my delivery as “delivered” but there’s nothing at my door. What should I do?",
+"Agent: Oh no! That’s annoying. Sometimes they mark it early by mistake.",
+"User: Should I wait?",
+"Agent: Yeah, give it a few hours—it usually shows up the same day. If not, I’ll file a trace with the courier for you."
+]}
+{"messages":[
+"User: My package has been stuck in the same city for two days. Does that mean it’s lost?",
+"Agent: Not at all! It probably just hit a busy sorting center.",
+"User: Good to know. Is there an ETA?",
+"Agent: Based on the carrier info, it should move tonight and arrive within 1–2 days."
+]}
+{"messages":[
+"User: Hey, I chose express shipping but the delivery estimate looks the same as standard. Why?",
+"Agent: Ah, that can happen if the courier’s express network for your area is full.",
+"User: So will it still be faster?",
+"Agent: Yep! Even on busy days, express orders get prioritized—usually 1 day quicker."
+]}
+{"messages":[
+"User: The courier keeps delaying my delivery. It was supposed to arrive yesterday.",
+"Agent: Sorry about that! EU deliveries are usually smooth, but delays do happen.",
+"User: Can you check what the delay is about?",
+"Agent: Sure thing—looks like the van broke down on their route, but your package is scheduled for delivery today.",
+"User: Alright, thanks for checking!"
+]}
+{"messages":[
+"User: Hey, how do I delete my account completely?",
+"Agent: Hey! I can help with that. We just need to submit a data deletion request for you.",
+"User: Okay, can you do it for me?",
+"Agent: Yep! I’ve submitted it. You’ll get a confirmation email once everything is erased, usually within 3–7 days."
+]}
+{"messages":[
+"User: Hi, I keep getting promo emails even after unsubscribing. Can you stop them?",
+"Agent: Ah, sorry about that! Sometimes it takes up to 24 hours.",
+"User: It’s been three days though.",
+"Agent: Got it — I’ll manually remove your email from our marketing list. You shouldn’t get anything else."
+]}
+{"messages":[
+"User: How can I see what data you store about my account?",
+"Agent: You can request a data report through the privacy section in your account settings.",
+"User: How long does that take?",
+"Agent: Usually 1–2 business days. We’ll email you a downloadable file once it’s ready."
+]}
+{"messages":[
+"User: I want to update the email linked to my account. Is that possible?",
+"Agent: Yep! You can change it from the “Account Info” section.",
+"User: It keeps saying the new email is already in use.",
+"Agent: Ah, that means you once signed up with it. I can remove that old link so you can switch over.",
+"User: Yes please, do that.",
+"Agent: Done! Try updating again now."
+]}
+{"messages":[
+"User: Hey, I forgot my password and the reset link isn’t arriving. Any idea why?",
+"Agent: That happens sometimes if emails land in spam or get blocked.",
+"User: I checked spam already.",
+"Agent: Got you — I just triggered a fresh reset email from our side. It should land within a minute.",
+"User: Yep, got it now. Thanks!"
+]}
+{"messages":[
+"User: Hi, my sneakers arrived with a scratch on the side. What can I do?",
+"Agent: Oh no! Sorry about that. We can send you a replacement for free.",
+"User: Do you need me to send photos?",
+"Agent: Yes, please! Once we receive the photos, I’ll start the replacement right away."
+]}
+{"messages":[
+"User: Hey, the sole of my new sneakers is coming off already. Can I get a new pair?",
+"Agent: Yikes! That shouldn’t happen. Absolutely, we’ll replace it at no cost.",
+"User: Great. How do I return the damaged pair?",
+"Agent: I’ll email you a pre-paid return label—just attach it and drop the package off at the courier."
+]}
+{"messages":[
+"User: Hello, my sneakers arrived wet and the box is ruined. Can I get a refund?",
+"Agent: Sorry about that! Yes, you can get a refund or exchange for free. Which would you prefer?",
+"User: I’d like an exchange.",
+"Agent: Perfect! I’ll send the new pair once you ship back the damaged ones with the return label."
+]}
+{"messages":[
+"User: Hi, there’s a noticeable tear on one of the shoes. What should I do?",
+"Agent: Oh no! We can replace them for you immediately. Can you send a photo of the tear?",
+"User: Sure, sending now.",
+"Agent: Got it! I’ve processed your replacement order. You’ll receive the new pair shortly."
+]}
+{"messages":[
+"User: Hey, my sneakers came with glue marks on the inside. Can I get a new pair?",
+"Agent: Sorry about that! No worries—we’ll exchange them for free.",
+"User: How long will it take?",
+"Agent: Once we receive your return, we ship the new pair usually the next business day."
+]}
+{"messages":[
+"User: Hi, how can I change the email associated with my account?",
+"Agent: Hey! You can update it from the “Account Info” section in your settings.",
+"User: I tried but it says my new email is already in use.",
+"Agent: That usually means it was used before. I can remove the old link so you can update it.",
+"User: Perfect, thanks!",
+"Agent: Done! You can try updating again now."
+]}
+{"messages":[
+"User: Hey, I want to change the password on my account. How do I do that?",
+"Agent: No problem! Go to your account settings, select “Change Password,” and follow the prompts.",
+"User: Okay, got it. Thanks!"
+]}
+{"messages":[
+"User: Hi, can I see a history of all my past orders?",
+"Agent: Yep! All your orders are listed in your account under “Order History.”",
+"User: Great, thanks for confirming."
+]}
+{"messages":[
+"User: I accidentally created two accounts with the same email. Can I merge them?",
+"Agent: Hey! Merging accounts isn’t automatic, but I can help transfer your order history to one account and close the duplicate.",
+"User: That would be perfect.",
+"Agent: Done! Your orders are now under a single account."
+]}
+{"messages":[
+"User: How do I unsubscribe from promotional emails?",
+"Agent: Easy! Scroll to the bottom of any email from us and click the “Unsubscribe” link.",
+"User: Does it happen immediately?",
+"Agent: Usually within a few minutes, but max 24 hours."
+]}
+{"messages":[
+"User: Hey, can you explain how your referral program works?",
+"Agent: Sure! When you refer a friend, they get 10% off their first order, and you get a €10 credit once they complete the purchase.",
+"User: Cool! How do I send a referral?",
+"Agent: Just share your unique referral link from your account dashboard."
+]}
+{"messages":[
+"User: Hi, I referred a friend last week but I haven’t received my credit yet.",
+"Agent: Let me check… yep, the credit is pending until your friend completes their first order. Once that’s done, it’ll appear in your account.",
+"User: Got it, thanks!"
+]}
+{"messages":[
+"User: Can I refer multiple friends at once?",
+"Agent: Absolutely! You can share your referral link with as many friends as you want.",
+"User: Do I get credit for each friend who makes a purchase?",
+"Agent: Yes, each successful referral earns you a €10 credit."
+]}
+{"messages":[
+"User: Hey, is there a limit to how many referral credits I can earn?",
+"Agent: Nope! You can keep referring friends and earning credits with no limit.",
+"User: Awesome, thanks!"
+]}
+{"messages":[
+"User: Hi, my friend used my referral link but I didn’t get the discount.",
+"Agent: Hmm, let’s see… sometimes the discount only applies if the friend completes their first purchase and uses the link correctly.",
+"User: They already completed it.",
+"Agent: Okay, I’ve manually added your referral credit. You should see it in your account now."
+]}
