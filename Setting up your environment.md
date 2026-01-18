@@ -8,7 +8,7 @@ conda activate vector-databases
 conda install jupyter
 pip install dotenv
 pip install openai
+pip install torch transformers  # BGE Models
+pip install torch open_clip_torch langchain-experimental  # OpenClip Model
 pip install pinecone
-pip install torch transformers  # 8.1 BGE Models
-pip install torch open_clip_torch langchain-experimental  # 8.2 OpenClip Model
 ```
